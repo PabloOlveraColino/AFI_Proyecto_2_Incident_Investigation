@@ -1,4 +1,32 @@
 ## Recolección y almacenamiento de evidencias
+## Índice
+
+1. [Recolección y almacenamiento de evidencias](#recolección-y-almacenamiento-de-evidencias)
+   - [Recolección de la evidencia](#recolección-de-la-evidencia)
+   - [Aplicación de *RFC 3227* e *ISO/IEC 27037*](#aplicación-de-rfc-3227-e-isoiec-27037)
+
+2. [Preservación de la escena](#preservación-de-la-escena)
+   - [Aseguramiento del equipo comprometido](#aseguramiento-del-equipo-comprometido)
+   - [Restricción del acceso físico](#restricción-del-acceso-físico)
+   - [Implementación de control de acceso](#implementación-de-control-de-acceso)
+
+3. [Identificación de dispositivos](#identificación-de-dispositivos)
+
+4. [Documentación inicial](#documentación-inicial)
+
+5. [Captura de datos volátiles](#captura-de-datos-volátiles)
+
+6. [Adquisición de datos no volátiles](#adquisición-de-datos-no-volátiles)
+
+7. [Tablas de enrutamiento y caché ARP](#tablas-de-enrutamiento-y-caché-arp)
+
+8. [Tabla de procesos en ejecución](#tabla-de-procesos-en-ejecución)
+
+9. [Recolección de dispositivos](#recolección-de-dispositivos)
+
+10. [Almacenamiento seguro](#almacenamiento-seguro)
+
+11. [Cadena de custodia](#cadena-de-custodia)
 
 ### Recolección de la evidencia
 Describir cada paso según metodología.
